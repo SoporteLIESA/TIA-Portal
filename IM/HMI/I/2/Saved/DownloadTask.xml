@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="d51f99e7-04f7-4731-9523-42cf65c07ec3" ESProjectName="SCADA_Unified" ESDeviceName="HMI_RT_2" RtProjectFolderName="SCADA_Unified.HMI_1[MTP1000 Unified Comfort]" RtProjectName="SCADA_Unified.HMI_1[MTP1000 Unified Comfort]" DeviceType="MTP1000 Unified Comfort" DeviceVersion="18.0.0.0" CreationTime="02/07/2024 08:55:30" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="UCP_7_22\UCP_7_22_V18_0.fwf" RuntimeFileName="" PRCV="4.1.0.0" RTCV="0.0.0.0" RTReleaseNo="18.0.0.0" ImageReleaseNo="18.0.0.0" />
+  <FullDownload type="ADMINDATA">UMCData.json</FullDownload>
+  <FullDownload>User.pbb</FullDownload>
+  <FullDownload>{894AD6A7-6155-424B-AA9D-7E77FD174D24}.zip</FullDownload>
+  <FullDownload>{973E4613-DFA5-7D4C-1549-567968D56A01}.zip</FullDownload>
+  <FullDownload>{9BA2ACF0-39B3-465B-8E10-28301ED605C5}.zip</FullDownload>
+  <FullDownload>config\config.level</FullDownload>
+  <FullDownload>device\devicesettings.pbb</FullDownload>
+  <FullDownload>device\environment.pbb</FullDownload>
+  <FullDownload>device\runtime.pbb</FullDownload>
+  <FullDownload>fonts\SISAN03.ttf</FullDownload>
+  <FullDownload>fonts\SISAN03.woff2</FullDownload>
+  <FullDownload>general\AuditTrailLogging.rdf</FullDownload>
+  <FullDownload>general\backupStrategies.rdf</FullDownload>
+  <FullDownload>general\catalog_1812_0_48_0.rdf</FullDownload>
+  <FullDownload>general\cds.rdf</FullDownload>
+  <FullDownload>general\ChromIdentification.rdf</FullDownload>
+  <FullDownload>general\config_AlertClass.rdf</FullDownload>
+  <FullDownload>general\config_AlertHandler.rdf</FullDownload>
+  <FullDownload>general\config_DpValue.rdf</FullDownload>
+  <FullDownload>general\config_HmiRuntime.rdf</FullDownload>
+  <FullDownload>general\config_InitialValue.rdf</FullDownload>
+  <FullDownload>general\config_LicenseCounter.rdf</FullDownload>
+  <FullDownload>general\config_Smoothing.rdf</FullDownload>
+  <FullDownload>general\dpIdentification.rdf</FullDownload>
+  <FullDownload>general\fontLocatorList.rdf</FullDownload>
+  <FullDownload>general\main.rdf</FullDownload>
+  <FullDownload>general\style_115.rdf</FullDownload>
+  <FullDownload>general\style_207.rdf</FullDownload>
+  <FullDownload>general\style_25.rdf</FullDownload>
+  <FullDownload>general\textLibrary_113_1033.rdf</FullDownload>
+  <FullDownload>general\textLibrary_208_1033.rdf</FullDownload>
+  <FullDownload>general\textListLibrary.rdf</FullDownload>
+  <FullDownload>graphics\imageLibrary_1033.rdf</FullDownload>
+  <FullDownload>screens\screen_259.rdf</FullDownload>
+  <FullDownload>screens\screen_261.rdf</FullDownload>
+  <FullDownload>screens\screen_295.rdf</FullDownload>
+  <FullDownload>screens\screen_330.rdf</FullDownload>
+  <FullDownload>system\ES2RTID.rdf</FullDownload>
+  <FullDownload>system\ProjectCharacteristics.rdf</FullDownload>
+</DownloadTask>

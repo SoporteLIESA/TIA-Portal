@@ -1,0 +1,125 @@
+{
+  "version": "2",
+  "users": [
+    {
+      "name": "Admin",
+      "password": {
+        "hash": "0EPgLBup4Pd1c0XF5EoJxxT6vgT04kGBtOLtuFj0DbvTkz5De/ppbDdvIi2x9YBfTxjc1lcqJukn/7iwhBfflg==",
+        "salt": "/CutgmlV5+yblvcWoRVls7gNi5m2uc4eHtbTs0SfVGY=",
+        "algorithm": "PBKDF2-HMAC-SHA1",
+        "encoding": "utf16le",
+        "iteration": 10000
+      },
+      "fullname": "Admin",
+      "comment": "",
+      "alertbeforepasswordexpirationdays": 0,
+      "passwordexpirationdays": 0,
+      "autologoff": 30
+    },
+    {
+      "name": "Operador",
+      "password": {
+        "hash": "2VcbT1ilTgcuX5PuEHJO57gDBnUySQ9lBwxHw7imgyR9qgE6f1+VGjh/BMMQz6GgAHH4LoJB0vejlMpUBvpR6Q==",
+        "salt": "4l69YvNhf+Ng9MtI/lcwWReC5EKsREZ5vGkdAxhNWYE=",
+        "algorithm": "PBKDF2-HMAC-SHA1",
+        "encoding": "utf16le",
+        "iteration": 10000
+      },
+      "fullname": "Operador",
+      "comment": "",
+      "alertbeforepasswordexpirationdays": 0,
+      "passwordexpirationdays": 0,
+      "autologoff": 30
+    },
+    {
+      "name": "Supervisor",
+      "password": {
+        "hash": "2M8BA5em+uTVEHFa0+uo85JLthsXkvr9q4InvFwuz14XFbLh+4PyhNwBD7Wdpl50aM6xK5COJR9/o/PHIQli+A==",
+        "salt": "HeiG0M+DJC1qoKPYZVM99rBjlzbsKPy5qF8wGxkHlv8=",
+        "algorithm": "PBKDF2-HMAC-SHA1",
+        "encoding": "utf16le",
+        "iteration": 10000
+      },
+      "fullname": "Supervisor",
+      "comment": "",
+      "alertbeforepasswordexpirationdays": 0,
+      "passwordexpirationdays": 0,
+      "autologoff": 30
+    }
+  ],
+  "groups": [
+    {
+      "name": "HMI Administrator",
+      "roles": [
+        "HMI Administrator"
+      ],
+      "users": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "HMI Operator",
+      "users": [
+        "Operador",
+        "Supervisor"
+      ]
+    },
+    {
+      "name": "HMI Monitor",
+      "users": []
+    },
+    {
+      "name": "HMI Monitor Client",
+      "users": []
+    },
+    {
+      "name": "DobleFirma",
+      "users": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "PrimFirma",
+      "users": [
+        "Operador"
+      ]
+    },
+    {
+      "name": "SegFirma",
+      "users": [
+        "Supervisor"
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "HMI Administrator",
+      "rights": [
+        "UM_ADMIN",
+        "UM_IMPORT",
+        "UM_EXPORT",
+        "UM_VIEW",
+        "UM_RESETPWD"
+      ]
+    }
+  ],
+  "globalAccountPolicies": {
+    "enablePasswordHistoryByDays": 0,
+    "enablePasswordHistoryByNumber": 1,
+    "enablePasswordCheck": 1,
+    "numberOfPasswordBeforeReuse": 5,
+    "passwordAging": 0,
+    "passwordMaxLength": 120,
+    "passwordMinAlphaChar": 0,
+    "passwordMinLength": 8,
+    "passwordMinLowerChar": 1,
+    "passwordMinUpperChar": 1,
+    "passwordMinNumericChar": 1,
+    "passwordMinOtherChar": 0
+  },
+  "umcConfig": {
+    "local": {
+      "domainName": "UM_Domain"
+    }
+  }
+}

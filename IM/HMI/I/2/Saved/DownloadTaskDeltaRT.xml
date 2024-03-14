@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="d51f99e7-04f7-4731-9523-42cf65c07ec3" ESProjectName="SCADA_Unified" ESDeviceName="HMI_RT_2" RtProjectFolderName="SCADA_Unified.HMI_1[MTP1000 Unified Comfort]" RtProjectName="SCADA_Unified.HMI_1[MTP1000 Unified Comfort]" DeviceType="MTP1000 Unified Comfort" DeviceVersion="18.0.0.0" CreationTime="02/07/2024 08:55:30" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="UCP_7_22\UCP_7_22_V18_0.fwf" RuntimeFileName="" PRCV="4.1.0.0" RTCV="0.0.0.0" RTReleaseNo="18.0.0.0" ImageReleaseNo="18.0.0.0" />
+  <DeltaDownload>deltas\271\cds.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\ChromIdentification.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\deltaES2RTID.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\deltaImageLibrary_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\deltaMain.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\deltaTextLibrary_113_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\deltaTextLibrary_208_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\ProjectCharacteristics.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\config\config.level</DeltaDownload>
+  <DeltaDownload>deltas\271\screens\screen_259.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\screens\screen_295.rdf</DeltaDownload>
+  <DeltaDownload>deltas\271\screens\screen_330.rdf</DeltaDownload>
+</DownloadTask>
