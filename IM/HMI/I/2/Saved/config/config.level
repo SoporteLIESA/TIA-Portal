@@ -2,9 +2,10 @@
 #Don't do changes manually
 
 [DomainFunctions]
-DF1 = "Audit"
-DF2 = "RTS"
-DF3 = "JobScheduler"
+DF1 = "TagLogging"
+DF2 = "Audit"
+DF3 = "RTS"
+DF4 = "JobScheduler"
 
 [general]
 valueChangeTimeDiff = 180
@@ -13,6 +14,7 @@ valueChangeTimeDiff = 180
 allowDuplicateOutputAddresses = 1
 
 [StorageApplications]
+TagLoggingDatabaseDir = /media/simatic/data-storage/Logs
 AuditTrailLoggingDatabaseDir = /media/simatic/data-storage
 
 [s7]
