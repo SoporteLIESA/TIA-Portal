@@ -10,13 +10,16 @@
   <FullDownload>device\devicesettings.pbb</FullDownload>
   <FullDownload>device\environment.pbb</FullDownload>
   <FullDownload>device\runtime.pbb</FullDownload>
+  <FullDownload>faceplates\faceplate_347.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_356.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_368.rdf</FullDownload>
   <FullDownload>fonts\SISAN03.ttf</FullDownload>
   <FullDownload>fonts\SISAN03.woff2</FullDownload>
   <FullDownload>general\AuditTrailLogging.rdf</FullDownload>
   <FullDownload>general\backupStrategies.rdf</FullDownload>
-  <FullDownload>general\catalog_2857_0_48_0.rdf</FullDownload>
   <FullDownload>general\cds.rdf</FullDownload>
   <FullDownload>general\ChromIdentification.rdf</FullDownload>
+  <FullDownload>general\ChromTypeContainer.rdf</FullDownload>
   <FullDownload>general\config_AlertClass.rdf</FullDownload>
   <FullDownload>general\config_AlertHandler.rdf</FullDownload>
   <FullDownload>general\config_DpValue.rdf</FullDownload>
@@ -25,9 +28,11 @@
   <FullDownload>general\config_LicenseCounter.rdf</FullDownload>
   <FullDownload>general\config_Range.rdf</FullDownload>
   <FullDownload>general\config_Smoothing.rdf</FullDownload>
+  <FullDownload>general\config_TagLogging.rdf</FullDownload>
   <FullDownload>general\dpIdentification.rdf</FullDownload>
   <FullDownload>general\fontLocatorList.rdf</FullDownload>
   <FullDownload>general\main.rdf</FullDownload>
+  <FullDownload>general\Paco.rdf</FullDownload>
   <FullDownload>general\style_115.rdf</FullDownload>
   <FullDownload>general\style_207.rdf</FullDownload>
   <FullDownload>general\style_25.rdf</FullDownload>
@@ -35,11 +40,16 @@
   <FullDownload>general\textLibrary_113_1033.rdf</FullDownload>
   <FullDownload>general\textLibrary_208_1033.rdf</FullDownload>
   <FullDownload>general\textListLibrary.rdf</FullDownload>
+  <FullDownload>general\TypeContainer.rdf</FullDownload>
   <FullDownload>graphics\imageLibrary_1033.rdf</FullDownload>
   <FullDownload>screens\screen_259.rdf</FullDownload>
   <FullDownload>screens\screen_261.rdf</FullDownload>
   <FullDownload>screens\screen_295.rdf</FullDownload>
   <FullDownload>screens\screen_330.rdf</FullDownload>
+  <FullDownload>screens\screen_344.rdf</FullDownload>
+  <FullDownload>screens\screen_346.rdf</FullDownload>
+  <FullDownload>screens\screen_365.rdf</FullDownload>
+  <FullDownload>screens\screen_370.rdf</FullDownload>
   <FullDownload>system\ES2RTID.rdf</FullDownload>
   <FullDownload>system\ProjectCharacteristics.rdf</FullDownload>
 </DownloadTask>

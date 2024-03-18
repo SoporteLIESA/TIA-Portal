@@ -2,10 +2,11 @@
 #Don't do changes manually
 
 [DomainFunctions]
-DF1 = "TagLogging"
-DF2 = "Audit"
-DF3 = "RTS"
+DF1 = "RTS"
+DF2 = "TagLogging"
+DF3 = "Audit"
 DF4 = "JobScheduler"
+DF5 = "ParameterControl"
 
 [general]
 valueChangeTimeDiff = 180
