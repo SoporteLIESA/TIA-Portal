@@ -1,113 +1,111 @@
 **********************
 * MERGE PROGRESS LOG *
 **********************
-[16:43:28] [INFO]: Starting merge for Project: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk
-[16:43:28] [INFO]: Setting up Full Project Merge...
-[16:43:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\system\runtime.rdf
-[16:43:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\system\persistent.rdf
-[16:43:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\deltas\326\runtime.rdf
-[16:43:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\deltas\326\persistent.rdf
-[16:43:28] [INFO]: Number of Jobs to execute: 51
-[16:43:28] [INFO]: Starting Job number 1: MOVE RESOURCES JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 2: MOVE RESOURCES JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 3: MOVE RESOURCES JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 4: MOVE RESOURCES JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 5: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 6: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 7: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 8: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 9: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 10: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 11: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 12: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 13: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 14: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 15: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 16: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 17: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 18: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 19: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 20: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 21: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 22: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 23: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 24: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 25: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 26: MERGE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 27: JOIN JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 28: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 29: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 30: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 31: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 32: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 33: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 34: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 35: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 36: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 37: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 38: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 39: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 40: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 41: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 42: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 43: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 44: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 45: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 46: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 47: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 48: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 49: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 50: FINALIZE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: Starting Job number 51: DELETE JOB
-[16:43:28] [INFO]: The job was executed succesfully.
-[16:43:28] [INFO]: DONE! Merge succeeded
+[17:20:28] [INFO]: Starting merge for Project: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk
+[17:20:28] [INFO]: Setting up Full Project Merge...
+[17:20:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\system\runtime.rdf
+[17:20:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\system\persistent.rdf
+[17:20:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\deltas\338\runtime.rdf
+[17:20:28] [WARNING]: Open optional file failed: C:\Users\LIESA\Documents\Automation\OPC_UA_BG\SCADA_Unified\IM\HMI\I\2\Context.wrk\deltas\338\persistent.rdf
+[17:20:28] [INFO]: Number of Jobs to execute: 50
+[17:20:28] [INFO]: Starting Job number 1: MOVE RESOURCES JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 2: MOVE RESOURCES JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 3: MOVE RESOURCES JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 4: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 5: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 6: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 7: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 8: JOIN JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 9: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 10: JOIN JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 11: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 12: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 13: JOIN JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 14: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 15: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 16: JOIN JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 17: MERGE JOB
+[17:20:28] [INFO]: The job was executed succesfully.
+[17:20:28] [INFO]: Starting Job number 18: MERGE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 19: JOIN JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 20: MERGE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 21: JOIN JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 22: MERGE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 23: MERGE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 24: JOIN JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 25: MERGE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 26: JOIN JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 27: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 28: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 29: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 30: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 31: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 32: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 33: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 34: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 35: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 36: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 37: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 38: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 39: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 40: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 41: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 42: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 43: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 44: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 45: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 46: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 47: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 48: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 49: FINALIZE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: Starting Job number 50: DELETE JOB
+[17:20:29] [INFO]: The job was executed succesfully.
+[17:20:29] [INFO]: DONE! Merge succeeded
